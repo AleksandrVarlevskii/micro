@@ -11,6 +11,7 @@ const uint32_t constant_variable = 42;
 
 
 int main(){
+
     stdio_init_all();
     while (1){
         printf("Hello World!\n");
